@@ -1,7 +1,7 @@
 package com.eviro.assessment.grad001.lelonantshiba.grad001.lelonantshiba.Controller;
 
 import com.eviro.assessment.grad001.lelonantshiba.grad001.lelonantshiba.FileParser.parseFile;
-import com.eviro.assessment.grad001.lelonantshiba.grad001.lelonantshiba.Repository.Service.AccountService;
+import com.eviro.assessment.grad001.lelonantshiba.grad001.lelonantshiba.Service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.FileSystemResource;
 import org.springframework.http.MediaType;
